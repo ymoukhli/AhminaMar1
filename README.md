@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Marouan
-- 💻 A Full Stack Web developer, passionate about Javascript, Problem-solving, and system design..
+- 💻 A Full Stack Javascript developer, passionate about Problem-solving, Teamworking, and scalable solutions..
+- 👨‍💻 Enjoy writing: javascript, typescript, React, Next.js, Gatsby, Node.js, Express, NestJS, Vue.js, and more...
 - 🔭 You could take a look at my favorite open source project: [Live-Support-Chat](https://github.com/AhminaMar1/LS-Chat) or at my favorite website: [GeussChallenge](https://github.com/AhminaMar1/LS-Chat)
 - 📫 You could reach me through:
 
