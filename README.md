@@ -7,3 +7,4 @@
 
 
 [![my gmail](./gmail.png)](mailto:AhminaMar1@gmail.com) [![my linkedin](./linkedin.png)](https://www.linkedin.com/in/ahminamar1/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ahminaMar1)
